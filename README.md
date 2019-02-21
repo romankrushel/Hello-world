@@ -1,3 +1,3 @@
 # Hello-world
 Simple action
-And othera
+And others
